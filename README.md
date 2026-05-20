@@ -45,6 +45,19 @@ Currently focused on building reliable and maintainable systems for:
 
 ---
 
+### 🚀 Selected Work
+
+| Project / Experience | What I Worked On | Tech / Tools |
+|---|---|---|
+| **Enterprise HRIS & TMS** | Developed internal HRIS modules and contributed to SCM/TMS workflow digitalization | Flutter, IndexedStack, Internal Apps |
+| **Industrial Solar Panel Cleaning Robot** | Embedded firmware, ESP32 PCB testing, 24V motor, 8S battery, and hardware-software troubleshooting | ESP32, Motor Control, Power System |
+| **AIoT Smart Irrigation** | MQTT-based ESP32–Raspberry Pi telemetry with dashboard and sensor-based decision support | ESP32, Raspberry Pi, MQTT, FastAPI, Random Forest |
+| **AWD Precision Irrigation DSS** | Field sensing node, RF/GSM telemetry, GIS processing, and weather-aware irrigation recommendation | STM32, nRF, GSM, FastAPI, WebODM |
+| **Integrated Agritech ERP** | Custom ERP with AI Analyst and automated PDF financial reporting | PERN, Cloudflare R2, Claude API |
+| **Hydropower Digital Twin** | Digital twin PoC with model-output UI and scenario visualization | FastAPI, TypeScript, Leaflet |
+
+---
+
 ### 🛠️ Tech Stack
 
 <p>
